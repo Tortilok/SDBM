@@ -11,8 +11,6 @@ int main()
 
     int size;
     unsigned int max;
-
-    cout << "Input size of array:\n";
     cin >> size;
     if (size > 1)
     {
