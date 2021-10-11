@@ -1,0 +1,2 @@
+D:\GitHud-repositories\SDBM\task_01\Debug\task_01.exe
+D:\GitHud-repositories\SDBM\task_01\Debug\task_01.pdb
